@@ -7,7 +7,7 @@
 
 <h3>Control Flow Graph</h3>
 
-![GitHub Logo](/ControlFlowGraph.png)
+![GitHub Logo](/Graph.png)
 
     public List<String> function(List<String> list) {//1
         if (list.size() <= 0) {//2
