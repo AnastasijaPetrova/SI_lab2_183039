@@ -7,8 +7,6 @@
 Control Flow Graph
 
 ![GitHub Logo](/ControlFlowGraph.png)
-код:
-public class SILab2 {
 
     public List<String> function(List<String> list) {//1
         if (list.size() <= 0) {//2
@@ -32,7 +30,7 @@ public class SILab2 {
         }//15
         return numMines;//16 
     }//17
-}
+    
 Цикломатска комплексност
 
 Бројот на предикатни јазли = 5 тоа се 1,2; 5.2; 6; 8; 10.
