@@ -25,13 +25,13 @@ public class SILab2 {
                     num++;//11
                 }
                 numMines.add(String.valueOf(num));//12
-            } -tuka zavrsuva 6-kata
+            }
 	else {//13
                 numMines.add(list.get(i));//14
             }
         }//15
-        return numMines;//16 ako 5.2 ne e ispolnet
-    }//17 ako 2 ne e ispolnet
+        return numMines;//16 
+    }//17
 }
 Цикломатска комплексност
 
